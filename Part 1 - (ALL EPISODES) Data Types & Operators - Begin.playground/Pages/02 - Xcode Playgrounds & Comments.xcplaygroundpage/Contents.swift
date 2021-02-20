@@ -2,6 +2,13 @@
 //: ## Episode 02: Xcode Playgrounds
 import Foundation
 
-var str = "Hello, playground"
+var welcomeMessage = "Hello, playground"
 
+var goodbyeMessage = "See you soon"
+
+//
+/*
+ 
+ Learned mockup also
+ */
 //: [⇒ Next: 03 - Booleans & Comparison Operators](@next)
