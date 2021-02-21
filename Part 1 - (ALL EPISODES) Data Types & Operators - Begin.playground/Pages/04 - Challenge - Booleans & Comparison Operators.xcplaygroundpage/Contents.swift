@@ -10,6 +10,9 @@
 */
 
 // TODO: Write solution here
+let myAge = 28
+let isVotingaAge = myAge > 18
+print("Voting Status: \(isVotingaAge)")
 
 
 /*:
@@ -23,6 +26,9 @@
  */
 
 // TODO: Write solution here
+let student = "Abdulmalik"
+let author = "Matt Galloway"
+let authorIsStudent = student == author
 
 
 
@@ -36,6 +42,7 @@
 
 // TODO: Write solution here
 
-
-
+let studentBeforeAuthor = student.sorted()
+student
+author
 //: [⇒ Next: 05 - Logical Operators](@next)
