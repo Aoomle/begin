@@ -12,8 +12,9 @@
  */
 
 // TODO: Write solution here
-
-
+let hasAllergies = true
+var dogName: String?
+dogName = hasAllergies ? nil : "Mango"
 /*:
  ## Challenge 2
  
@@ -24,7 +25,7 @@
 
 // TODO: Write solution here
 
-
+let parsedInt = Int("10")
 
 
 /*:
@@ -37,4 +38,4 @@
  */
 
 // TODO: Write solution here
-
+let newParsedInt = Int("Cat")

@@ -12,6 +12,15 @@
 // TODO: Write solution here
 
 
+// TODO: Write solution here
+let myAge = 42
+
+if myAge >= 13 && myAge <= 19 {
+    print("Teenager")
+} else
+{
+    print("Not a teenager")
+}
 /*:
  ## Challenge 2
  Create a constant named `teenagerName`, and use a ternary conditional operator to set the value of `teenagerName` to your own name as a string if the value of `myAge`, declared above, is greater than or equal to 13, but less than or equal to 19, and to set the value of `teenagerName` to `"Not me!"` if the value is outside that range.
@@ -21,5 +30,7 @@
 
 // TODO: Write solution here
 
+let teenagerName = myAge >= 13 && myAge <= 19 ? "Chris" : "Not me!"
+print(teenagerName)
 
 //: [⇒ Next: 07 - Optionals](@next)
